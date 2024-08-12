@@ -14,3 +14,8 @@ To complete this exercise you should
    5. An interesting fact about yourself
 5. `Commit` the file to your repository
 6. `Push` the file to Github
+
+<!--Answers>
+
+My name is Mohamed Abdirahim. I was born and raised up in Berbera. I am currently living in Hargeisa, Somaliland. In addition to that, It is my honor to mention that I have watched so many interesting movies but ONE of those became unforgettable-- They Call it Troy Movie. I am highly reccomending you to watch that movie. My favourite hobby is travelling because I love discovering new cities and places
+around the world. I often save up for months to plan a trip every year. I love friends’ trips and family outings but solo travelling brings me the real adventure and thrill to venture into new places all by myself.
